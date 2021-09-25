@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 ![giuem's GitHub stats](https://github-readme-stats.vercel.app/api?username=giuem&count_private=true&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuem&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giuem&layout=compact&theme=dark&hide=html,css,assembly)
 
